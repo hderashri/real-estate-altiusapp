@@ -41,3 +41,6 @@ python manage.py migrate
 python manage.py seed_apartments
 
 python manage.py runserver
+
+```RUN tests```
+python manage.py test apartments
