@@ -21,7 +21,7 @@ A Django-based real estate listing platform focused on apartment rentals in Indi
 
 - Backend: Django + DRF
 - Database: SQLite (default)
-- Optional Frontend: React + Material UI (WIP)
+- Optional Frontend: React + Material UI (WIP), for now simple HTML
 
 ---
 
