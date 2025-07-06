@@ -31,7 +31,7 @@ A Django-based real estate listing platform focused on apartment rentals in Indi
 
 ```bash
 git clone https://github.com/rajitaroy/Real-Est-AltiusHub.git
-cd Real-Est-AltiusHub
+cd real-estate-altiusapp
 
 pip install -r requirements.txt
 
